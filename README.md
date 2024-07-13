@@ -1,8 +1,7 @@
 # geoprocess
 
 SBT
-![SBT]
-(https://github.com/kckuei/geoprocess/blob/main/lithology_SBT.svg)
+![SBT](https://github.com/kckuei/geoprocess/blob/main/lithology_SBT.svg)
 
 Penetration Resistance
 ![Penetration Resistance](https://github.com/kckuei/geoprocess/blob/main/lithology_penetration_resistance.svg)
